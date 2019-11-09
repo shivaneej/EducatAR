@@ -8,19 +8,28 @@
     using GoogleARCoreInternal;
     using UnityEngine;
     using UnityEngine.UI;
+    using UnityEngine.SceneManagement;
 
     public class AugmentedImageVisualizer : MonoBehaviour
     {
 
         public AugmentedImage Image;
         public GameObject[] Models;
+        // public GameObject FitToScanOverlay;
+        // public GameObject AugmentedImageVisualizerPrefab;
 
         // Start is called before the first frame update
         void Start()
         {
             
         }
-
+        public void ResetScreen()
+        {
+            // FitToScanOverlay.SetActive(true);
+            // AugmentedImageVisualizerPrefab.SetActive(false);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            
+        }
         // Update is called once per frame
         void Update()
         {
