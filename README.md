@@ -14,12 +14,7 @@
 * Interact and play around with the 3D object
 
 ## Demo
-<div align="center">
-	<br><b>3D Objects</b><br>
-	<img src="Objects_Demo.gif" width="200px">
-	<br><b>Video in AR</b><br>
-  	<img src="Video_Demo.gif" width="200px">
-</div>
+[Google Drive Link](https://drive.google.com/open?id=1Icepon5Sh9rtqrHngF-4PlZwq-nV1oWo)
 
 ## Technology Stack
 * Unity3D
