@@ -5,7 +5,7 @@
 </div>
 
 * EducatAR is an Android Application which can help students to visualize the images in their textbooks in 3D using Augmented Reality
-* Submission for SheHack 2019
+* Submission for [SheHack 2019](https://skillenza.com/challenge/gojek-she-hack-hackatho)
 
 ## Functionalities
 * View 3D objects of human organs in 3D
